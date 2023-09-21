@@ -1,2 +1,2 @@
 # Stroke-Prediction-Program
-A stroke prediciton program with the use of supervised learning algorithm which is Naive Bayes Classifier
+A stroke prediciton program with the use of supervised learning algorithm which is Naive Bayes Classifier. The data used by me is a stroke prediction dataset taken from the website www.kaggle.com, this data was collected by Federisian. This dataset consists of 5110 patient data, and has features consisting of gender, hypertension, work_type, residence_type, heart_disease, avg_glucose_level, bmi, ever_married, smoking_status, stroke. The stroke feature acts as a class, and becomes the target feature for prediction.
